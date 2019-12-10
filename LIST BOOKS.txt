@@ -1,0 +1,22 @@
+Smoothing, Forecasting and Prediction of Discrete Time Series
+An Introduction to Discrete-Valued Time Series
+Macroeconometrics and Time Series Analysis
+Climate Time Series Analysis
+Recursive Estimation and Time-Series Analysis
+Discrete Time Series, Processes, and Applications in Finance
+
+Beginning Anomaly Detection Using Python
+Hands-On Machine Learning for Algorithmic Trading
+Explorations in Time-Frequency Analysis
+Modeling Techniques in Predictive Analytics with Python
+Python Guide for Introductory Econometrics for Finance - chris brooks
+Regression Analysis with Python
+Bayesian Analysis with Python - osvaldo martin
+Statistical Application Development with R and Python - Prabhanjan Narayanachar Tattar
+Data Science and Analytics with Python
+Mastering Predictive Analytics with Python
+Python - Advanced Predictive Analytics
+
+Introductory Time Series with R
+Handbook of Discrete-Valued Time Series
+Applied Time Series Analysis with R
