@@ -1,0 +1,89 @@
+Project scope includes
+
+
+As Lead Data Scientist you will:
+
+-       Manage a team of data scientists and data analysts – the scope of works of the team includes collaboration with data scientists, machine learning engenieers or big data specialists of Relyens digital partners -,
+
+-       Build analytics systems and predictive models,
+
+-       Administrate the data products projects management.
+
+You should have a strong problem-solving ability and a knack for statistical analysis to best be able to align data products with our business goals.
+
+Your ultimate goal will be to help improve our products and business decisions by making the most out of our data.
+
+
+Main Responsibilities
+
+-       Manage a team of data scientists, data analyst and possibly completed in the future with machine learning engineers and/or big data specialists,
+
+-       Lead data mining and collection procedures,
+
+-       Ensure data quality and integrity,
+
+-       Interpret and analyze data problems,
+
+-       Conceive, plan and prioritize data projects,
+
+-       Build analytic systems and predictive models,
+
+-       Responsible for test performance, roll-out and industrialization as well as of reliability of data-driven products,
+
+-       Visualize data and create reports,
+
+-       Experiment with new models and techniques,
+
+-       Align data projects with organizational goals.
+
+
+Responsabilities:
+
+
+    Own the full Data Science life-cycle from conception to prototyping, testing, deploying, and measuring its overall business value
+    Develop quantitative models, leveraging machine learning and advanced data analysis techniques
+    Architect and build technical platforms for our algorithmic engines to run at scale
+    Leverage our work in order to increase adoption across our business partners, to drive real business value
+    Uncover deep insight hidden in our vast repository of raw data, and provide tactical guidance on how act on findings
+    Use data to improve the decision-making of our employees, and ultimately, to enhance the experience of our customers and our suppliers
+	
+	By designing and constructing data-driven models, the Data Science/Machine Learning Team is able to provide our users with indispensable knowledge and meaningful advice on how they can achieve their personal finance goals.
+
+Such Goals Include
+
+    Selecting the best financial products for your needs
+    Taking the right actions to improve your credit score
+    Anticipate your future financial health based on your current financial status and history
+
+With these goals in mind, our Data Scientists use the latest cloud technologies and machine learning tools in order to exploit the potential of data analytics. We always have new and interesting projects on the horizon that aim to help our users reach their personal finance aspirations!
+
+Expected work schedule is 50 hours/week Monday to Friday. In case you will be working from outside the US, please be aware this position requires an overlap with EST business hours.
+
+Responsibilities
+
+    Modeling complex problems, discovering insights and identifying opportunities through the use of statistical, algorithmic, mining and visualization techniques
+    Participating in the areas of architecture, design, implementation, and testing
+    Proposing innovative ways to look at problems by using data mining approaches on the set of information available
+    Designing experiments, testing hypotheses, and building models
+    Conducting advanced data analysis and designing highly complex algorithm
+    Applying advanced statistical and predictive modeling techniques to build, maintain, and improve on multiple real-time decision systems
+	
+Tasks and Responsibilities:
+
+    Evaluate and advise on existing data storage and generation methodologies.
+    Design and create suitable, industry standard data storage and transmission systems for our products.
+    Collaborate with sales and marketing to develop business cases for value added data.
+    Research and develop data science technologies for data analysis, modelling and prediction.
+    Collaborate with product design, science and engineering to drive data-driven solutions.
+    Assist with data collection, processing and assessment and data library development.
+    Assist with generation of technical documentation for processes and tools.
+
+As our Senior Data Scientist, your responsibilities will include the following:
+
+    Develop anomaly detectors as APIs to analyze a team’s results across their data generated in our team exercises, classify the team and generate a personalized report for the team manager in real-time empowering them to have a focused discussion with their team
+    Deploy an intelligence product that uses in-app survey responses to improve the recommendations about what tools to use that new managers or teams see in-app by learning from more mature teams about what worked for them
+    Build out a proprietary data set on what makes a thriving team and use the data to generate insights about team leadership for our clients
+    Improve our personalized management coach algorithm by using ML algorithms to detect opportunities for improvement.
+    Demonstrate strong leadership skills by solving difficult problems, leading by example, and helping to grow and mentor other data folks on the team
+
+
